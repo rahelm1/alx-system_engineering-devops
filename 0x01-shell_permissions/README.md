@@ -1,1 +1,1 @@
-changing user ownership to betty
+viewing effecive user
