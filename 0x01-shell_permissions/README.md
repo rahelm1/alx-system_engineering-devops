@@ -1,1 +1,1 @@
-viewing effecive user
+1-who_am_i

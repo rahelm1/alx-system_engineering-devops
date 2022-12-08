@@ -1,2 +1,2 @@
-#!/bin/bash
-root\n
+#!/bin/bash\n
+whoami
